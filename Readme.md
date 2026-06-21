@@ -1,6 +1,10 @@
 # 💫 About Me:
 
-Currently contributing to NumPy, Scikit-Learn, and Statsmodels<br>Going deep on Deep Learning, NLP, and ML fundamentals — from linear algebra to transformer architectures<br> Building production-grade ML pipelines from first principles — not just running APIs<br>Strong foundation in offensive security — web app pentesting, malware analysis, CVE research, Kali Linux home lab since 2022<br>Open-source contributor — merged PRs in NumPy and Statsmodels, reviewing in Scikit-Learn<br>Ask me about ML pipelines, feature engineering, NLP, or getting into open-source<br>Second-year BTech. Active on Kaggle. Merged PRs in NumPy and Statsmodels and scikit-learn.
+I'm a second-year BTech student currently contributing to NumPy, scikit-learn, and Statsmodels — with merged PRs in NumPy and Statsmodels, and active reviewing in scikit-learn. Most of my time goes into going deep on Deep Learning, NLP, and ML fundamentals, from linear algebra up through transformer architectures, because I'd rather build production-grade ML pipelines from first principles than just wire together APIs.
+
+Before ML pulled me in, I had a strong foundation in offensive security — web app pentesting, malware analysis, CVE research, and a Kali Linux home lab I've run since 2022. That mindset still carries over: I like taking things apart to understand them, whether it's a vulnerability or a model.
+
+I'm active on Kaggle and always tinkering with open-source. Ask me about ML pipelines, feature engineering, NLP, or how to get started contributing to open-source — happy to talk shop.
 
 ## 🌐 Socials:
 
