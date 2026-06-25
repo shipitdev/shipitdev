@@ -19,10 +19,6 @@ I'm active on Kaggle and always tinkering with open-source. Ask me about ML pipe
 ![](https://github-readme-stats.shion.dev/api?username=shipitdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=shipitdev&theme=dark&hide_border=false)<br/>
 
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=shipitdev&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 
 [![](https://komarev.com/ghpvc/?username=shipitdev&icon=0&color=0)](https://visitcount.itsvg.in)
