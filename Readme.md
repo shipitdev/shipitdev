@@ -17,7 +17,7 @@ I'm active on Kaggle and always tinkering with open-source. Ask me about ML pipe
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.shion.dev/api?username=shipitdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=shipitdev&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shipitdev&theme=dark&exclude_days=Sun)](https://git.io/streak-stats)
 
 ---
 
