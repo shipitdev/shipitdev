@@ -16,6 +16,6 @@ I'm active on Kaggle and always tinkering with open-source. Ask me about ML pipe
 ![](https://streak-stats.demolab.com/?user=shipitdev&theme=dark&hide_border=false)<br/>
 
 ---
-[![Profile Views](https://komarev.com/ghpvc/?username=shipitdev&color=cyan&style=plastic&base=50)](https://github.com/shipitdev)
+[![Profile Views](https://komarev.com/ghpvc/?username=shipitdev&color=00ffff&style=plastic&base=50)](https://github.com/shipitdev)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
