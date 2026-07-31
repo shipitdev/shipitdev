@@ -1,10 +1,23 @@
-# 💫 About Me:
+### Hey, I'm shipitdev 👋
 
-I'm a second-year BTech student currently contributing to NumPy, scikit-learn, and Statsmodels — with merged PRs in NumPy and Statsmodels, and active reviewing in scikit-learn. Most of my time goes into going deep on Deep Learning, NLP, and ML fundamentals, from linear algebra up through transformer architectures, because I'd rather build production-grade ML pipelines from first principles than just wire together APIs.
+I'm a software engineer focused on system architecture and machine learning. I actively study how major open-source codebases are built to write robust, production-grade systems, and I use ML/DL where it's the only real solution to the problem.
 
-Before ML pulled me in, I had a strong foundation in offensive security — web app pentesting, malware analysis, CVE research, and a Kali Linux home lab I've run since 2022. That mindset still carries over: I like taking things apart to understand them, whether it's a vulnerability or a model.
+---
 
-I'm active on Kaggle and always tinkering with open-source. Ask me about ML pipelines, feature engineering, NLP, or how to get started contributing to open-source — happy to talk shop.
+**⚡ What I Know & How I Build**
+
+- **System Design & Architecture** — deep in HLD and LLD, studying patterns across the stack rather than staying inside one framework's defaults.
+- **Reading for mental models** — I actually love reading technical engineering books and dissecting large open-source repos to write idiomatic, production-efficient code, not just correct code.
+- **ML/DL** — Building and training models from scratch, focusing on the mathematical fundamentals to solve real-world problems that are uniquely suited for AI.
+- **A hacker's eye** — I approach architecture and models edge-case-first, a habit from my background in offensive security.
+
+**🔭 Currently Working On**
+
+- **Open-source core contributions** — Active contributor and code reviewer across the foundational PyData & machine-learning ecosystem (NumPy, scikit-learn, pandas, statsmodels...).
+- **Systems Programming & DSA** — Developing a custom command shell in C to deepen my understanding of low-level process creation, I/O redirection, and OS-level execution along with Data Structures and Algorithms.
+- **Algorithmic Architecture** — Engineering a multi-agent autonomous trading pipeline in Python using LangGraph to dynamically evaluate market conditions and sentiment.
+
+💬 i'm always happy to talk and network with new people to collaborate and collect new insights.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shipitdev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_harsh.kumar.singh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shipitdev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shipitdev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshsinghrajpoot07@gmail.com) 
