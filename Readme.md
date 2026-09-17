@@ -1,26 +1,28 @@
-### Hey, I'm shipitdev 👋
+# Harsh K. Singh
+**Software Engineer | Systems & Applied ML**
 
-I'm a software engineer focused on system architecture and machine learning. I actively study how major open-source codebases are built to write robust, production-grade systems, and I use ML/DL where it's the only real solution to the problem.
+> confidence: high <br>
+> also: i tested it three times
 
----
+I architect distributed systems that deliver AI hallucinations with sub-millisecond latency.
 
-**⚡ What I Know & How I Build**
+### Shipped
+*   **[LambdaSearch](https://github.com/shipitdev/LambdaSearch):** A Learning-to-Rank search engine built with XGBoost LambdaMART and Elasticsearch. Trains on synthetic click data to re-rank BM25 results, evaluated by NDCG@10. *(Because standard full-text search just wasn't complicated enough).*
+*   **[Hackawon](https://github.com/shipitdev/Hackawon):** A static, serverless platform that aggregates hackathons from Devfolio, Unstop, and MLH, then generates project ideas grounded in past winning submissions. Runs entirely on scheduled GitHub Actions: no backend, near-zero operating cost. *(Turns out you don't need a server if you're stubborn enough about GitHub Actions).*
+*   **[Halo](https://github.com/shipitdev/Halo):** A macOS overlay app. !think open-source Cluely/ParakeetAI: captures screen, mic, and meeting context in real time and streams live AI assistance across OpenAI, Gemini, and Anthropic models. *(An always-on-top window that knows what you're doing. Slightly unsettling, very useful though).*
 
-- **System Design & Architecture** — deep in HLD and LLD, studying patterns across the stack rather than staying inside one framework's defaults.
-- **Reading for mental models** — I actually love reading technical engineering books and dissecting large open-source repos to write idiomatic, production-efficient code, not just correct code.
-- **ML/DL** — Building and training models from scratch, focusing on the mathematical fundamentals to solve real-world problems that are uniquely suited for AI.
-- **A hacker's eye** — I approach architecture and models edge-case-first, a habit from my background in offensive security.
 
-**🔭 Currently Working On**
+### Open Source 
+Currently working on my Open-source contributions. I'm currently contributing across Flatcar (test automation harness for sysext images) and CNCF projects, also exploring agent-based modeling. Past contributions include NumPy, scikit-learn, statmodels and a few more around the PyData ecosystem.
 
-- **Open-source core contributions** — Active contributor and code reviewer across the foundational PyData & machine-learning ecosystem (NumPy, scikit-learn, pandas, statsmodels...).
-- **Systems Programming & DSA** — Developing a custom command shell in C to deepen my understanding of low-level process creation, I/O redirection, and OS-level execution along with Data Structures and Algorithms.
-- **Algorithmic Architecture** — Engineering a multi-agent autonomous trading pipeline in Python using LangGraph to dynamically evaluate market conditions and sentiment.
+### ⚙️ Current AI Stack (subject to change every time a new model drops)
+```
+LLMs:        whatever has a good API and doesn't rate-limit me at 2am
+Retrieval:   pgvector until it hurts, then actually learn the fancy stuff
+Agents/MCP:  build the tool first, trust the model second
+Infra:       my own PC, until it can't take it anymore
+```
 
-💬 i'm always happy to talk and network with new people to collaborate and collect new insights.
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shipitdev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_harsh.kumar.singh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shipitdev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shipitdev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshsinghrajpoot07@gmail.com) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Linux Server Administration](https://img.shields.io/badge/Linux%20Server%20Administration-FCC624?style=plastic&logo=linux&logoColor=black) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=plastic&logo=elasticsearch&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)
